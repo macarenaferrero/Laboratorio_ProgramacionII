@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Calculadora\Entidades.csproj", "{ADE98AE0-0D0F-4278-8283-52E9BEE77C3F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Numero", "Numero\Numero.csproj", "{B0AAF84D-E313-4619-AF7A-491599182DCA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MiCalculadora", "MiCalculadora\MiCalculadora.csproj", "{7615222F-B029-4227-82C7-112E52C12EEA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ADE98AE0-0D0F-4278-8283-52E9BEE77C3F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ADE98AE0-0D0F-4278-8283-52E9BEE77C3F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ADE98AE0-0D0F-4278-8283-52E9BEE77C3F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ADE98AE0-0D0F-4278-8283-52E9BEE77C3F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B0AAF84D-E313-4619-AF7A-491599182DCA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B0AAF84D-E313-4619-AF7A-491599182DCA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B0AAF84D-E313-4619-AF7A-491599182DCA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B0AAF84D-E313-4619-AF7A-491599182DCA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7615222F-B029-4227-82C7-112E52C12EEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7615222F-B029-4227-82C7-112E52C12EEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7615222F-B029-4227-82C7-112E52C12EEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7615222F-B029-4227-82C7-112E52C12EEA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CD13C388-F6EE-467F-AF53-8E57C07AF19B}
+	EndGlobalSection
+EndGlobal

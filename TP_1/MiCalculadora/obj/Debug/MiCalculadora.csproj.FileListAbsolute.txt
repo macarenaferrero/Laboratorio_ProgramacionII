@@ -1,0 +1,15 @@
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe.config
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\bin\Debug\MiCalculadora.exe
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\bin\Debug\MiCalculadora.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.Properties.Resources.resources
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.GenerateResource.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.exe
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.FormCalculadora.resources
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\bin\Debug\Calculadora.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\bin\Debug\Numero.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\bin\Debug\Calculadora.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\bin\Debug\Numero.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\MiCalculadora\obj\Debug\MiCalculadora.csproj.CopyComplete

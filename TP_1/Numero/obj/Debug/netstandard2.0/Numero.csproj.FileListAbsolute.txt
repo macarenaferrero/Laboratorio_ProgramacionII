@@ -1,0 +1,9 @@
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\obj\Debug\netstandard2.0\Numero.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\obj\Debug\netstandard2.0\Numero.AssemblyInfoInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\obj\Debug\netstandard2.0\Numero.AssemblyInfo.cs
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\obj\Debug\netstandard2.0\Numero.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\bin\Debug\netstandard2.0\Numero.deps.json
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\bin\Debug\netstandard2.0\Numero.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\bin\Debug\netstandard2.0\Numero.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\obj\Debug\netstandard2.0\Numero.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Numero\obj\Debug\netstandard2.0\Numero.pdb

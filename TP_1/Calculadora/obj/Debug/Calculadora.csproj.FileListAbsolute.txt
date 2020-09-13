@@ -1,0 +1,9 @@
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\obj\Debug\Calculadora.csprojAssemblyReference.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\bin\Debug\Calculadora.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\bin\Debug\Numero.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\bin\Debug\Numero.pdb
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\obj\Debug\Calculadora.csproj.CopyComplete
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\obj\Debug\Calculadora.dll
+C:\Users\macar\source\repos\Laboratorio_ProgramacionII\Renovado\TP_1\Calculadora\obj\Debug\Calculadora.pdb

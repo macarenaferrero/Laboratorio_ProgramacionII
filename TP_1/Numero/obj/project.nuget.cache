@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "r/I8VNj9IvSz0gdYX1095JsW2fIuMyJWV2pzYIMJ/qD4ZPQvfgX5kcBKZD+QabEsnwzYdtX12Ac5k+xq4DSBaw==",
+  "dgSpecHash": "cgix9Aml2fP6LEh8DaooRQ6t3B8XnM1Nsteuu+kibW4K6bfWxqG+2jDe5nphudNnEKVWyC+KNW0q6pzV0BrJHw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\macar\\source\\repos\\Laboratorio_ProgramacionII\\Renovado\\TP_1\\Numero\\Numero.csproj",
+  "projectFilePath": "C:\\Users\\macar\\OneDrive\\Documentos\\programacion II\\Laboratorio_ProgramacionII\\TP_1\\Numero\\Numero.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\macar\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
     "C:\\Users\\macar\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"

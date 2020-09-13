@@ -95,6 +95,7 @@
             // 
             // cmbOperadores
             // 
+            this.cmbOperadores.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList;
             this.cmbOperadores.FormattingEnabled = true;
             this.cmbOperadores.Items.AddRange(new object[] {
             "+",

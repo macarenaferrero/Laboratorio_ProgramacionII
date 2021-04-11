@@ -1,6 +1,0 @@
-C:\Users\macar\Desktop\Laboratorio_ProgramacionII\MiCalculadora\Entidades\bin\Debug\Entidades.dll
-C:\Users\macar\Desktop\Laboratorio_ProgramacionII\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
-C:\Users\macar\Desktop\Laboratorio_ProgramacionII\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
-C:\Users\macar\Desktop\Laboratorio_ProgramacionII\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\Users\macar\Desktop\Laboratorio_ProgramacionII\MiCalculadora\Entidades\obj\Debug\Entidades.dll
-C:\Users\macar\Desktop\Laboratorio_ProgramacionII\MiCalculadora\Entidades\obj\Debug\Entidades.pdb

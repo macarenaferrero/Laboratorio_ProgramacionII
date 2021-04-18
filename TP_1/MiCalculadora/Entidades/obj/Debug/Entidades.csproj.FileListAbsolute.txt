@@ -10,3 +10,9 @@ C:\Users\macar\Desktop\TP_Entregar\TP_1\MiCalculadora\Entidades\obj\Debug\Entida
 C:\Users\macar\Desktop\TP_Entregar\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
 C:\Users\macar\Desktop\TP_Entregar\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.dll
 C:\Users\macar\Desktop\TP_Entregar\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_1\MiCalculadora\Entidades\bin\Debug\Entidades.dll
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_1\MiCalculadora\Entidades\bin\Debug\Entidades.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.dll
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_1\MiCalculadora\Entidades\obj\Debug\Entidades.pdb

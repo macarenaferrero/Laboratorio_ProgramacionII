@@ -13,6 +13,9 @@ namespace MiCalculadora
 {
     public partial class FormCalculadora : Form
     {
+        /// <summary>
+        /// Constructor que inicializa el formulario con los botones de conversion desabilitados
+        /// </summary>
         public FormCalculadora()
         {
             InitializeComponent();
@@ -20,11 +23,21 @@ namespace MiCalculadora
             btnConvertirADecimal.Enabled = false;
         }
 
+        /// <summary>
+        /// Evento cerrar formulario que se ejecuta al dar click en el boton cerrar
+        /// </summary>
+        /// <param name="sender">Objeto</param>
+        /// <param name="e">Clase base de los eventos</param>
         private void btnCerrar_Click(object sender, EventArgs e)
         {
             FormCalculadora.ActiveForm.Close();
         }
 
+        /// <summary>
+        /// Evento que realiza la conversion de Decimal a Binario. Se ejecuta a dar click en el boton Convertir a Binario
+        /// </summary>
+        /// <param name="sender">Objeto</param>
+        /// <param name="e">Clase base de los eventos</param>
         private void btnConvertirABinario_Click(object sender, EventArgs e)
         {
 
@@ -53,6 +66,11 @@ namespace MiCalculadora
             return Calculadora.Operar(valorA, valorB, operador);
         }
 
+        /// <summary>
+        /// Evento que llama al metodo Operar, y devuelve el resultado del mismo, si no se elije operador, por defecto sera +
+        /// </summary>
+        /// <param name="sender">objeto</param>
+        /// <param name="e">lase base de los eventos</param>
         private void btnOperar_Click(object sender, EventArgs e)
         {
             string num1 = txtNumero1.Text.Replace(".", ",");
@@ -68,6 +86,11 @@ namespace MiCalculadora
             btnConvertirADecimal.Enabled = true;
         }
 
+        /// <summary>
+        /// Evento que llama al metodo Limpiar. Se ejecuta al dar click sobre el boton Limpiar
+        /// </summary>
+        /// <param name="sender">objeto</param>
+        /// <param name="e">lase base de los eventos</param>
         private void btnLimpiar_Click(object sender, EventArgs e)
         {
             Limpiar();
@@ -84,6 +107,11 @@ namespace MiCalculadora
             lblResultado.Text = "0";
         }
 
+        /// <summary>
+        /// Evento que realiza la conversion de Binario a Decimal. Se ejecuta a dar click en el boton Convertir a Decimal
+        /// </summary>
+        /// <param name="sender">Objeto</param>
+        /// <param name="e">lase base de los eventos</param>
         private void btnConvertirADecimal_Click(object sender, EventArgs e)
         {
             Numeros auxValor = new Numeros();

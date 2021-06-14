@@ -78,7 +78,8 @@ namespace FormMiDomo
 
             try
             {
-                if (File.Exists(file_name) && (MessageBox.Show($"El archivo {file_name} existe. ¿Desea sobreescribirlo (SI) o agregar los datos al existente (NO)?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes))
+                if (File.Exists(file_name) && (MessageBox.Show($"El archivo {file_name} existe. ¿Desea sobreescribirlo (SI) " +
+                    $"o agregar los datos al existente (NO)?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.Yes))
                 {
                     using (StreamWriter sw = new StreamWriter(file_name))
                     {

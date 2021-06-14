@@ -1,0 +1,14 @@
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\bin\Debug\FormMiDomo.exe.config
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\bin\Debug\FormMiDomo.exe
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\bin\Debug\FormMiDomo.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\bin\Debug\MiDomo.dll
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\bin\Debug\MiDomo.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.FormMiDomo.resources
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.Properties.Resources.resources
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.csproj.GenerateResource.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.exe
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\FormMiDomo\obj\Debug\FormMiDomo.FormInforme.resources

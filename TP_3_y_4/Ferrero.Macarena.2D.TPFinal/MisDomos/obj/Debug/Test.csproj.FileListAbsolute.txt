@@ -1,0 +1,10 @@
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\bin\Debug\MisDomos.exe.config
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\bin\Debug\MisDomos.exe
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\bin\Debug\MisDomos.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\bin\Debug\MiDomo.dll
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\bin\Debug\MiDomo.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\obj\Debug\Test.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\obj\Debug\Test.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\obj\Debug\Test.csproj.CopyComplete
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\obj\Debug\MisDomos.exe
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MisDomos\obj\Debug\MisDomos.pdb

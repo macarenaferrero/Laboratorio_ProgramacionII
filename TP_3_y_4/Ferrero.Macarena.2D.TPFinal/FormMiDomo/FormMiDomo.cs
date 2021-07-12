@@ -52,7 +52,7 @@ namespace FormMiDomo
                     if (xmlSerializador.Leer(rutaArchivo, out listaDomos))
                     {
                         pendienteAConstruir.ListaPendientes = listaDomos;
-                        MessageBox.Show("Archivo XML cargado correctamente con datos de la ultima ejecucion", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                        MessageBox.Show("Archivo XML cargado correctamente con datos de la última ejecución", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
                     }
                 }
             }
@@ -127,7 +127,7 @@ namespace FormMiDomo
                 }
                 else
                 {
-                    MessageBox.Show("Ingrese valor en todos los campos solicitados.");
+                    MessageBox.Show("Ingrese un valor en todos los campos solicitados.");
                 }
 
                 txtCliente.Clear();
@@ -160,7 +160,7 @@ namespace FormMiDomo
         /// <param name="e"></param>
         private void FormMiDomo_FormClosing(object sender, FormClosingEventArgs e)
         {
-            if (MessageBox.Show("Esta seguro que desea salir?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.No)
+            if (MessageBox.Show("¿Está seguro que desea salir?", "Aviso", MessageBoxButtons.YesNo, MessageBoxIcon.Warning) == DialogResult.No)
             {
                 e.Cancel = true;
             }
@@ -168,6 +168,7 @@ namespace FormMiDomo
             {
                 this.Dispose();
             }
+       
         }
 
         /// <summary>
@@ -203,7 +204,7 @@ namespace FormMiDomo
             }
             catch (Exception ex)
             {
-                throw new DomoException("No se pudo guardar el archivo XML", "FormMiDomo", "Salir()", ex);
+                throw new DomoException("No se pudo guardar el archivo XML en la carpeta del ejecutable", "FormMiDomo", "Salir()", ex);
             }
 
             this.Close();
@@ -226,7 +227,7 @@ namespace FormMiDomo
             }
             else
             {
-                MessageBox.Show("No hay domos pendientes a construir", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
+                MessageBox.Show("No hay domos pendientes a construir.", "Aviso", MessageBoxButtons.OK, MessageBoxIcon.Information);
             }
 
 

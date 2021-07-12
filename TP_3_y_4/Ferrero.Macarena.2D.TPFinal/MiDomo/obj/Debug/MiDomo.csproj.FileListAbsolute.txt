@@ -4,3 +4,9 @@ C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFin
 C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MiDomo\obj\Debug\MiDomo.dll
 C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MiDomo\obj\Debug\MiDomo.pdb
 C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3\Ferrero.Macarena.2D.TPFinal\MiDomo\obj\Debug\MiDomo.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3_y_4\Ferrero.Macarena.2D.TPFinal\MiDomo\bin\Debug\MiDomo.dll
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3_y_4\Ferrero.Macarena.2D.TPFinal\MiDomo\bin\Debug\MiDomo.pdb
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3_y_4\Ferrero.Macarena.2D.TPFinal\MiDomo\obj\Debug\MiDomo.csprojAssemblyReference.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3_y_4\Ferrero.Macarena.2D.TPFinal\MiDomo\obj\Debug\MiDomo.csproj.CoreCompileInputs.cache
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3_y_4\Ferrero.Macarena.2D.TPFinal\MiDomo\obj\Debug\MiDomo.dll
+C:\Users\macar\Desktop\Laboratorio_ProgramacionII\TP_3_y_4\Ferrero.Macarena.2D.TPFinal\MiDomo\obj\Debug\MiDomo.pdb

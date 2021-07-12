@@ -22,7 +22,7 @@ namespace MiDomo
         static DomoDAO()
         {
             //Abrir conexion
-            cadenaConexion = "Server = localhost ; Database = Master; Trusted_Connection = true;";
+            cadenaConexion = "Server = localhost ; Database = MiDomo; Trusted_Connection = true;";
             comando = new SqlCommand();
             conexion = new SqlConnection(cadenaConexion);
             comando.Connection = conexion;

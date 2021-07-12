@@ -194,7 +194,7 @@ namespace FormMiDomo
         /// <param name="e"></param>
         private void btnFabricar_Click(object sender, EventArgs e)
         {
-         //Hilo para mandar a fabricar
+            //Hilo para mandar a fabricar
 
             Thread hilo = new Thread(Construir);
             hilo.Start();
@@ -226,7 +226,7 @@ namespace FormMiDomo
             }
             catch (Exception ex)
             {
-                throw new DomoException("El domo seleccionado no se puede construir", "FormInforme.cs" , "Construir()" , ex);
+                throw new DomoException("El domo seleccionado no se puede construir", "FormInforme.cs", "Construir()", ex);
             }
 
         }
